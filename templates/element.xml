@@ -1,8 +1,0 @@
-<templateSet group="element">
-  <template name="datetimerange" value="&lt;el-date-picker&#10;          v-model=&quot;query.tran_date&quot;&#10;          type=&quot;datetimerange&quot;&#10;          value-format=&quot;yyyy-MM-dd HH:mm:ss&quot;&#10;          align=&quot;right&quot;&#10;          unlink-panels&#10;          range-separator=&quot;至&quot;&#10;          start-placeholder=&quot;开始日期&quot;&#10;          end-placeholder=&quot;结束日期&quot;&#10;          :picker-options=&quot;pickerOptions&quot;&gt;&#10;        &lt;/el-date-picker&gt;" description="element时间段选择" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="HTML_TEXT" value="true" />
-      <option name="VUE_TEMPLATE" value="true" />
-    </context>
-  </template>
-</templateSet>

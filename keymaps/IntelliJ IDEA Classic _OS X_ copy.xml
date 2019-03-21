@@ -1,5 +1,0 @@
-<keymap version="1" name="IntelliJ IDEA Classic (OS X) copy" parent="Mac OS X">
-  <action id="SaveAsTemplate">
-    <keyboard-shortcut first-keystroke="alt j" />
-  </action>
-</keymap>
