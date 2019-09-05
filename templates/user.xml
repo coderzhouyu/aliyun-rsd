@@ -1,0 +1,8 @@
+<templateSet group="user">
+  <template name="validate" value="public function $NAME$()&#10;    {&#10;        return array_merge($this-&gt;common, [&#10;            'rules' =&gt; [&#10;                'org_id' =&gt; [&#10;                    'bail',&#10;                    'required',&#10;                    'integer',&#10;                    Rule::in((new User())-&gt;inv_list()-&gt;pluck('id')),&#10;                ],&#10;            ],&#10;            'custom' =&gt; [&#10;            ],&#10;        ]);&#10;    }" description="插入验证模板" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="clipboard()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
+</templateSet>

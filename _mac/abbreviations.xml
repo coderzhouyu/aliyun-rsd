@@ -1,0 +1,9 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="SaveAsTemplate">
+        <abbreviation name="live" />
+      </action>
+    </abbreviations>
+  </component>
+</application>

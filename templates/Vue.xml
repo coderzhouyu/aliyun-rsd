@@ -1,0 +1,3 @@
+<templateSet group="Vue">
+  <template name="date-format" value="value-format=&quot;yyyy-MM-dd HH:mm:ss&quot;" description="date-format" toReformat="false" toShortenFQNames="true" />
+</templateSet>
