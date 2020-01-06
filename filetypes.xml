@@ -7,6 +7,7 @@
       <mapping pattern="a5750f8145aa68b2c5692c7bf46bd527" type="PLAIN_TEXT" />
       <mapping pattern="8eaa354aef905f67a3c066025f2778b9" type="PLAIN_TEXT" />
       <mapping pattern="index" type="PLAIN_TEXT" />
+      <mapping pattern=".enc" type="PLAIN_TEXT" />
       <mapping pattern=".gitingore" type="PLAIN_TEXT" />
       <mapping pattern="6710b01e9cbda5da4d74d97cb9f6195f11ad2398" type="PLAIN_TEXT" />
     </extensionMap>
